@@ -4,4 +4,4 @@ Parallel Continuous-Time Relative Localization with Augmented Clamped Non-Unifor
 [![arXiv](https://img.shields.io/badge/arXiv-2602.22006-b31b1b.svg)](https://arxiv.org/abs/2602.22006)
 
 > [!IMPORTANT]
-> The code will be released after the paper is accepted.
+> The clamped spline implementation and the multi-robot localization algorithm will be released after the paper is accepted.
